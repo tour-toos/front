@@ -1,0 +1,12 @@
+{
+  "tsx": true,
+  "tailwind": {
+    "css": "src/index.css",
+    "config": "tailwind.config.cjs"
+  },
+  "aliases": {
+    "components": "./components/ui",
+    "utils": "./lib/utils",
+    "path": "~/*"
+  }
+}
