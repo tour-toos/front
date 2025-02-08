@@ -8,6 +8,7 @@ import {
     createLocalStorageManager,
 } from "@kobalte/core"
 
+
 const routes = {
     path: "/",
     component: lazy(() => import("./App")),
